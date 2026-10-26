@@ -1,4 +1,4 @@
-# ViralShortsPro
+# ViralShorts-Pro
 
 
 ---
